@@ -1,4 +1,4 @@
-# iPod Watch
+# Music Watch
 
 A Pebble Time Steel (Basalt) watchface featuring a pixel art iPod Classic illustration with live time displayed on the iPod screen.
 
@@ -20,7 +20,7 @@ A Pebble Time Steel (Basalt) watchface featuring a pixel art iPod Classic illust
 ## Structure
 
 ```
-ipod-watch/
+music-watch/
 ├── main.c        ← all code + pixel arrays inline
 └── package.json
 ```
