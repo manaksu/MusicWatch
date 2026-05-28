@@ -1,0 +1,15 @@
+{
+  "uuid": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+  "shortName": "iPodWatch",
+  "longName": "iPod Watch",
+  "companyName": "Manaksu",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "resources": {
+    "media": []
+  }
+}
